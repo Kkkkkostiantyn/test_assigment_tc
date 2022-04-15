@@ -1,0 +1,39 @@
+.card {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    height: 80px;
+    width: 250px;
+    background-color: lightblue;
+    border-radius: 10px;
+    margin-right: 30px;
+}
+
+.card_avatar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+}
+
+.card_info {
+    margin-left: 10px;
+}
+.card_name {
+    font-size: 18px;
+}
+.card_email {
+    font-size: 12px;
+    color: black;
+}
+
+.checkbox {
+    height: 20px;
+    width: 20px;
+    margin-left: auto;
+    margin-right: 10px;
+}
