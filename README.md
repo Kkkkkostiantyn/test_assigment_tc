@@ -1,3 +1,7 @@
+# Click on link to see deployed version
+
+Deployed link [https://ts-test-assigment.herokuapp.com](https://ts-test-assigment.herokuapp.com)
+
 ## How to run
 
 After cloning this repository use
